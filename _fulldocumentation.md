@@ -1,4 +1,3 @@
-
 # Campus Lost & Found — Full Documentation
 
 ## Table of Contents
@@ -136,6 +135,30 @@ date: Date (default: now)
 - `GET /api/messages?itemId=...` — List messages for item
 - `GET /api/messages/conversations?username=...` — List conversations for user
 - `POST /api/messages` — Send message
+
+---
+
+## Screenshots
+
+![Login Screen](Application_Images/login_register.png)
+![Dashboard](Application_Images/dashboard.png)
+![Dashboard](Application_Images/dashboard_2.png)
+![Lost item Screen](Application_Images/itemview_lost.png)
+![Lost items Screen](Application_Images/lostitems.png)
+![Founditems Screen](Application_Images/founditems.png)
+![Found Item Screen](Application_Images/itemview_found.png)
+![Live chat Screen](Application_Images/live_chat.png)
+![Report item](Application_Images/report_item.png)
+![Messages screen](Application_Images/messages_2.png)
+
+
+
+---
+
+## Contributors
+
+- Your Name
+- Collaborator Name
 
 ---
 
